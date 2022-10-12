@@ -1,5 +1,10 @@
 # Abogabot   
 
+## Toma de Requerimientos
+La practica consiste en realizar una pagina web para automatizar las demandas en despacho de abogados 
+
+
+
 
 
 ## Practicas 
