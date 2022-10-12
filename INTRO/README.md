@@ -14,6 +14,6 @@
 ![](img/Buyer%20Personal.png "Buyer Personal")
 
 ## Publico Objetivo
-
+![](img/Publico%20Objetivo.jpg)
 
 
