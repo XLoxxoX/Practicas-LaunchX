@@ -1,3 +1,0 @@
-# Abogabot
-
-## Descripcion del Caso
