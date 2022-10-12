@@ -11,7 +11,7 @@
 - Crea tu primer UI
 
 ## Buyer Personal 
-![](img/Buyer%20Personal.png)
+![](img/Buyer%20Personal.png "Buyer Personal")
 
 ## Publico Objetivo
 
