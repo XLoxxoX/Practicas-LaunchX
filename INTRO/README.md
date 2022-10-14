@@ -22,6 +22,7 @@ La practica consiste en realizar una pagina web para automatizar las demandas en
 ![](img/Publico%20Objetivo.jpg "Publico objetivo")
 
 ## Crea tu primer Wireframe
+![](img/wireframe1.jpg)
 
 
 
