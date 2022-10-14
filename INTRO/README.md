@@ -16,10 +16,10 @@ La practica consiste en realizar una pagina web para automatizar las demandas en
 - Crea tu primer UI
 
 ## Buyer Personal 
-![](img/Buyer%20Personal.png "Buyer Personal")
+![](img/BuyerPersonal.png "Buyer Personal")
 
 ## Publico Objetivo
-![](img/Publico%20Objetivo.jpg "Publico objetivo")
+![](img/PublicoObjetivo.jpg "Publico objetivo")
 
 ## Crea tu primer Wireframe
 ![](img/wireframe1.jpg "Paginas de principales")
