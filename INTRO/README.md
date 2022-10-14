@@ -26,14 +26,23 @@ La practica consiste en realizar una pagina web para automatizar las demandas en
 ![](img/wireframe.jpg "Pagina de visualizacion de datos")
 
 ## UI 
+Inicio
 ![](img/UI/PaginaPrincipal.png)
+Formulario del demandante
 ![](img/UI/FormularioDemanda.png)
+Registro de usuario
 ![](img/UI/Registro.png)
+Inicio de sesión
 ![](img/UI/Login.png)
+Proceso de pago
 ![](img/UI/Pago.png)
+Pagina de visualizacio de la demanda del usuario
 ![](img/UI/Usuario.png)
+Pagina del Administrador
 ![](img/UI/Administrador.png)
+Pagina para visualizar los pagos del demandante
 ![](img/UI/AdministradorPago.png)
+Pagina para actualizar el proceso de la demanda
 ![](img/UI/AdministradorComentarios.png)
 
 
