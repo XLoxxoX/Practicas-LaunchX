@@ -2,9 +2,19 @@
 
 ## Toma de Requerimientos
 La practica consiste en realizar una pagina web para automatizar las demandas en despacho de abogados 
+### Cliente
+- El cliente entra al sitio web
+- Completa el formulario para demandar
+- Crea una cuenta
+- Completa el pago
+- Visualiza el seguimiento de su demanda
 
-
-
+### Administrador
+- Inicia sesion con su cuenta de abogado
+- Recibe notificacion de la demanda
+- Recibe notificacion sobre el pago
+- Visualiza la cantidad de ingreso sobre la demanda
+- Actualiza el seguimiento de la demanda y agrega comentarios 
 
 
 ## Practicas 
